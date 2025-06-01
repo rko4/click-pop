@@ -1,6 +1,6 @@
 # Balloon Pop Duel
 
-![Gameplay Screenshot](gameplay.png)
+<img src="gameplay.png" alt="Gameplay Screenshot" width="200" />
 
 A simple two-player browser game where players compete to pop balloons and score points. One player uses the mouse, the other uses the keyboard.
 
@@ -13,7 +13,7 @@ A simple two-player browser game where players compete to pop balloons and score
 
 # Дуэль Лопанья Шаров
 
-![Скриншот геймплея](gameplay.png)
+<img src="gameplay.png" alt="Скриншот геймплея" width="200" />
 
 Простая браузерная игра для двух игроков. Соревнуйтесь, кто быстрее наберёт 30 очков, лопая шары!
 
