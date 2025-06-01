@@ -1,4 +1,4 @@
-# Balloon Pop Duel
+# Click - Pop Duel
 
 <img src="gameplay.png" alt="Gameplay Screenshot" width="200" />
 
@@ -11,7 +11,7 @@ A simple two-player browser game where players compete to pop balloons and score
 
 ---
 
-# Дуэль Лопанья Шаров
+# Дуэль - Лопанье Шаров
 
 <img src="gameplay.png" alt="Скриншот геймплея" width="200" />
 
